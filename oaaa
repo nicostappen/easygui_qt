@@ -1,0 +1,6 @@
+import easygui as eg
+
+# Crear una ventana emergente de saludo
+eg.msgbox("¡Hola amooooor! Feliz 11 meses noobsita, te amo muchísimo, estos meses han sido muy agradables y llenos de felicidad al estar a tu lado, eres muy especial para mí. No te vayas nunca popabo", "Te amo")
+
+# Cerrar la ventana emergente al hacer clic en Aceptar
